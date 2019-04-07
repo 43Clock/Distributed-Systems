@@ -1,4 +1,4 @@
-# CouldServer
+# CloudServer
 
 Work developed for Distributed System at University of Minho.
 
