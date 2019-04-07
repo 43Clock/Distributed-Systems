@@ -1,6 +1,6 @@
 # CloudServer
 
-Work developed for Distributed System at University of Minho.
+Work developed for Distributed Systems at University of Minho.
 
 ## Getting Started:
 
